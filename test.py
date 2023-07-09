@@ -1,6 +1,7 @@
 a = 1
 b = 2
+c = 3
 
-c = a + b
+d = a + b + c
 
-print(f"{a} + {b} = {c}")
+print(f"{a} + {b} + {c} = {d}")
